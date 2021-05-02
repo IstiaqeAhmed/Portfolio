@@ -24,7 +24,7 @@ const Navbar = () => {
   return (
     <div>
       <nav
-        style={{ backgroundColor: "black" }}
+        style={{ backgroundColor: "#34495e" }}
         class="navbar navbar-expand-lg navbar-light"
       >
         <a class="navbar-brand" href="#" style={{ color: "white" }}>

@@ -14,7 +14,7 @@ const Blogs = () => {
           />
           <div
             class="card-body"
-            style={{ color: "white", background: "black" }}
+            style={{ color: "white", background: "#34495e" }}
           >
             <h5 style={{ textAlign: "center" }} class="card-title">
               <br />
@@ -44,7 +44,7 @@ const Blogs = () => {
           />
           <div
             class="card-body"
-            style={{ color: "white", background: "black" }}
+            style={{ color: "white", background: "#34495e" }}
           >
             <h5 style={{ textAlign: "center" }} class="card-title">
               How to face Javascript code problems
@@ -74,7 +74,7 @@ const Blogs = () => {
           />
           <div
             class="card-body"
-            style={{ color: "white", background: "black" }}
+            style={{ color: "white", background: "#34495e" }}
           >
             <h5 style={{ textAlign: "center" }} class="card-title">
               What is React Js and Why React Js
@@ -107,7 +107,7 @@ const Blogs = () => {
           />
           <div
             class="card-body"
-            style={{ color: "white", background: "black" }}
+            style={{ color: "white", background: "#34495e" }}
           >
             <h5 style={{ textAlign: "center" }} class="card-title">
               Five important things in web development
@@ -137,7 +137,7 @@ const Blogs = () => {
           />
           <div
             class="card-body"
-            style={{ color: "white", background: "black" }}
+            style={{ color: "white", background: "#34495e" }}
           >
             <h5 style={{ textAlign: "center" }} class="card-title">
               Javascript for me
@@ -157,7 +157,7 @@ const Blogs = () => {
             <br />
           </div>
         </div>
-        <div class="card" style={{ background: "black" }}></div>
+        <div class="card" style={{ background: "#34495e" }}></div>
       </div>
     </div>
   );

@@ -1,5 +1,5 @@
 import React from "react";
-
+// import "./.css";
 export default class MyForm extends React.Component {
   constructor(props) {
     super(props);
@@ -13,7 +13,8 @@ export default class MyForm extends React.Component {
     const { status } = this.state;
     return (
       <form
-        style={{ height: "90vh" }}
+        class="box"
+        style={{ height: "90vh", background: "#34495e" }}
         onSubmit={this.submitForm}
         action="https://formspree.io/f/meqvezkv"
         method="POST"

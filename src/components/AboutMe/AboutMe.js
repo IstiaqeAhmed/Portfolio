@@ -9,7 +9,7 @@ const AboutMe = () => {
   return (
     <div
       className="container"
-      style={{ display: "cover", backgroundColor: "black" }}
+      style={{ display: "cover", backgroundColor: "#34495e" }}
     >
       <div style={{ textAlign: "center" }}>
         <img

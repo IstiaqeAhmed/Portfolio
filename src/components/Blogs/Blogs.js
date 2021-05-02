@@ -7,6 +7,7 @@ const Blogs = () => {
         <div class="card box">
           <img
             class="img-fluid"
+            style={{ height: "405px", width: "405px" }}
             src="https://www.tutorialrepublic.com/lib/images/javascript-illustration.png"
             class="card-img-top"
             alt="..."
@@ -17,7 +18,6 @@ const Blogs = () => {
           >
             <h5 style={{ textAlign: "center" }} class="card-title">
               <br />
-              <br /> <br />
               Java Script For me
             </h5>
             <a
@@ -38,7 +38,7 @@ const Blogs = () => {
         <div class="card box">
           <img
             class="img-fluid"
-            src="https://www.tutorialrepublic.com/lib/images/javascript-illustration.png"
+            src="https://miro.medium.com/max/1094/0*eFu3-LUyUyVP8l1n"
             class="card-img-top"
             alt="..."
           />
@@ -47,11 +47,11 @@ const Blogs = () => {
             style={{ color: "white", background: "black" }}
           >
             <h5 style={{ textAlign: "center" }} class="card-title">
-              JavaScript For Me
+              How to face Javascript code problems
             </h5>
             <a
               target="_blank"
-              href="https://istiaqeahmed-cse.medium.com/about-java-script-b4cbcc6cd07f"
+              href="https://istiaqeahmed-cse.medium.com/how-to-face-javascript-code-problems-241cdfac906f"
             >
               <button
                 style={{ width: "305px", marginBottom: "7px" }}
@@ -67,8 +67,8 @@ const Blogs = () => {
         <div class="card box">
           <img
             class="img-fluid"
-            style={{ height: "220px" }}
-            src="https://i.ibb.co/xqQrWMy/photo-1515879218367-8466d910aaa4.jpg"
+            style={{ height: "405px", width: "405px" }}
+            src="https://miro.medium.com/max/1094/0*oj16-EVi3LkW4kds"
             class="card-img-top"
             alt="..."
           />
@@ -77,11 +77,11 @@ const Blogs = () => {
             style={{ color: "white", background: "black" }}
           >
             <h5 style={{ textAlign: "center" }} class="card-title">
-              Secrets of coding style and good commenting
+              What is React Js and Why React Js
             </h5>
             <a
               target="_blank"
-              href="https://istiaqeahmed-cse.medium.com/about-java-script-b4cbcc6cd07f"
+              href="https://istiaqeahmed-cse.medium.com/what-is-react-js-and-why-react-js-72fb7bf1b5b8"
             >
               <button
                 style={{ width: "305px", marginBottom: "7px" }}
@@ -100,8 +100,8 @@ const Blogs = () => {
         <div class="card box">
           <img
             class="img-fluid"
-            style={{ height: "220px" }}
-            src="https://i.ibb.co/ysbckyP/Practicalwaysto-Write-Better-JS.png"
+            style={{ height: "405px", width: "405px" }}
+            src="https://cdn-images-1.medium.com/max/1875/0*ud82M7jroM3r7Iep"
             class="card-img-top"
             alt="..."
           />
@@ -110,11 +110,11 @@ const Blogs = () => {
             style={{ color: "white", background: "black" }}
           >
             <h5 style={{ textAlign: "center" }} class="card-title">
-              10 interesting things I learned about javascript.
+              Five important things in web development
             </h5>
             <a
               target="_blank"
-              href="https://istiaqeahmed-cse.medium.com/about-java-script-b4cbcc6cd07f"
+              href="https://istiaqeahmed-cse.medium.com/in-my-opinion-it-is-very-important-to-know-five-important-things-in-web-development-10d638644e55"
             >
               <button
                 style={{ width: "305px", marginBottom: "7px" }}
@@ -130,8 +130,8 @@ const Blogs = () => {
         <div class="card box">
           <img
             class="img-fluid"
-            style={{ height: "220px" }}
-            src="https://i.ibb.co/ctwQcy9/39039130-s.jpg"
+            style={{ height: "405px", width: "405px" }}
+            src="https://i.ibb.co/YDHtqWW/download.jpg"
             class="card-img-top"
             alt="..."
           />
@@ -140,7 +140,7 @@ const Blogs = () => {
             style={{ color: "white", background: "black" }}
           >
             <h5 style={{ textAlign: "center" }} class="card-title">
-              Let’s handle javascript errors
+              Javascript for me
             </h5>
             <a
               target="_blank"
